@@ -48,6 +48,6 @@ This project analyzes OC Transpo’s publicly available transit performance data
 ## Potential Impact
 This project mirrors real-world analytics used by OC Transpo and demonstrates how data-driven insights can support city transit planning, enhance service reliability, and improve rider satisfaction.
 
-
+---
 
 
