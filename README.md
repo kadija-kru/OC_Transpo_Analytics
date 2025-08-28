@@ -2,9 +2,9 @@
 
 ##  Project Overview
 Public transit is a backbone of urban mobility. OC Transpo aims to provide safe, reliable, and convenient transit for Ottawa residents, with clear service targets:  
- 99.5% on-time service for conventional buses  
- 99% service reliability for O-Train  
- Acceptance of all Para Transpo trip requests  
+ - 99.5% on-time service for conventional buses  
+ - 99% service reliability for O-Train  
+ - Acceptance of all Para Transpo trip requests  
 
 This project analyzes OC Transpo’s publicly available transit performance data to monitor current performance, uncover trends, and provide actionable insights for decision-making.
 
