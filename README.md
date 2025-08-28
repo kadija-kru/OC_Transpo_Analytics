@@ -23,7 +23,7 @@ This project analyzes OC Transpo’s publicly available transit performance data
 - Ridership Data: Monthly and daily passenger counts per route/station.  
 - Service Reliability Data: Percentage of on-time trips and recorded delays.  
 - Customer Service Metrics (optional): Complaints, satisfaction, and service requests.  
-*All datasets are publicly available via [OC Transpo Performance Measures](https://www.octranspo.com/en/about-us/performance-measures/)
+>All datasets are publicly available via [OC Transpo Performance Measures](https://www.octranspo.com/en/about-us/performance-measures/)
 
 ---
 
